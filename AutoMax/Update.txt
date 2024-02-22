@@ -1,3 +1,0 @@
-v1.0.2
-v0.1.1
-Thêm tùy chọn phương pháp tải DLL, Fake mã máy (Không miễn phí)

@@ -1,5 +1,11 @@
 [
 	{
+		"version": "v1.0.3",
+		"game_version": "v0.1.1",
+		"release_notes": "Thêm kiểm tra cập nhật",
+		"links": []
+	},
+	{
 		"version": "v1.0.2",
 		"game_version": "v0.1.1",
 		"release_notes": "Thêm tùy chọn phương pháp tải DLL, Fake mã máy (Không miễn phí)",

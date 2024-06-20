@@ -1,5 +1,12 @@
 [
 	{
+		"version": "v1.0.1",
+		"game_version": "v2.4.8",
+		"release_notes": "Thêm server 13, Super 1, Super 2, fix không kết nối với QLTK được khi dùng proxy, thêm chức năng khôi phục mật khẩu",
+		"force_update": true,
+		"links": [],
+	},
+	{
 		"version": "v1.0.0",
 		"game_version": "v2.4.8",
 		"release_notes": "Phiên bản đầu tiên của AutoUltra Crack",

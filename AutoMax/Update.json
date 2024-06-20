@@ -1,5 +1,11 @@
 [
-	
+	{
+		"version": "v1.0.7",
+		"game_version": "v0.1.3",
+		"release_notes": "Thêm server 3, fix không kết nối với QLTK được khi dùng proxy, thêm chức năng khôi phục mật khẩu",
+		"force_update": true,
+		"links": []
+	},
 	{
 		"version": "v1.0.6",
 		"game_version": "v0.1.3",

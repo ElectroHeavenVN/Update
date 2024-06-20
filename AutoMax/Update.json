@@ -1,48 +1,48 @@
 [
 	{
-		"version": "v1.0.7",
+		"version": "v1.0.7.0",
 		"game_version": "v0.1.3",
 		"release_notes": "Thêm server 3, fix không kết nối với QLTK được khi dùng proxy, thêm chức năng khôi phục mật khẩu",
 		"force_update": true,
 		"links": []
 	},
 	{
-		"version": "v1.0.6",
+		"version": "v1.0.6.0",
 		"game_version": "v0.1.3",
 		"release_notes": "Thêm server Giải Đấu",
 		"force_update": false,
 		"links": []
 	},
 	{
-		"version": "v1.0.5",
+		"version": "v1.0.5.0",
 		"game_version": "v0.1.3",
 		"release_notes": "Thêm chức năng thử nghiệm: kết nối qua proxy",
 		"force_update": false,
 		"links": []
 	},
 	{
-		"version": "v1.0.4",
+		"version": "v1.0.4.0",
 		"game_version": "v0.1.3",
 		"release_notes": "Update game lên v0.1.3, thêm một số chức năng mới trong QLTK (tùy chỉnh thanh tiêu đề cửa sổ game, tải c++ redistributable, xóa dữ liệu, thêm server API Dũng Phạm vào file hosts, tùy chọn xóa logo Unity)",
 		"force_update": false,
 		"links": []
 	},
 	{
-		"version": "v1.0.3",
+		"version": "v1.0.3.0",
 		"game_version": "v0.1.1",
 		"release_notes": "Thêm kiểm tra cập nhật",
 		"force_update": false,
 		"links": []
 	},
 	{
-		"version": "v1.0.2",
+		"version": "v1.0.2.0",
 		"game_version": "v0.1.1",
 		"release_notes": "Thêm tùy chọn phương pháp tải DLL, Fake mã máy (Không miễn phí)",
 		"force_update": false,
 		"links": []
 	},
 	{
-		"version": "v1.0.0",
+		"version": "v1.0.0.0",
 		"game_version": "v0.0.9",
 		"release_notes": "Phiên bản đầu tiên của AutoMax Crack",
 		"force_update": false,

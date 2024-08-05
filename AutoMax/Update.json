@@ -1,8 +1,15 @@
 [
 	{
+		"version": "v1.0.8",
+		"game_version": "v0.1.4",
+		"release_notes": "\r\n- Cập nhật game lên phiên bản 0.1.4\r\n- Thêm chức năng sắp xếp tab\r\n- Thêm chức năng báo lỗi khi Quản lý tài khoản bị văng\r\n- Sửa lỗi cửa sổ game bị thừa\r\n- Sửa lỗi không bấm được link trong phần Hướng dẫn sử dụng và Về AutoMax Crack",
+		"force_update": true,
+		"links": ["phamgiang.net"]
+	},
+	{
 		"version": "v1.0.7",
 		"game_version": "v0.1.3",
-		"release_notes": "Thêm server 3, fix không kết nối với QLTK được khi dùng proxy, thêm chức năng khôi phục mật khẩu",
+		"release_notes": "Thêm server 3, sửa không kết nối với QLTK được khi dùng proxy, thêm chức năng khôi phục mật khẩu",
 		"force_update": true,
 		"links": []
 	},
@@ -23,7 +30,7 @@
 	{
 		"version": "v1.0.4",
 		"game_version": "v0.1.3",
-		"release_notes": "Update game lên v0.1.3, thêm một số chức năng mới trong QLTK (tùy chỉnh thanh tiêu đề cửa sổ game, tải c++ redistributable, xóa dữ liệu, thêm server API Dũng Phạm vào file hosts, tùy chọn xóa logo Unity)",
+		"release_notes": "Cập nhật game lên phiên bản 0.1.3, thêm một số chức năng mới trong QLTK (tùy chỉnh thanh tiêu đề cửa sổ game, tải c++ redistributable, xóa dữ liệu, thêm server API Dũng Phạm vào file hosts, tùy chọn xóa logo Unity)",
 		"force_update": false,
 		"links": []
 	},

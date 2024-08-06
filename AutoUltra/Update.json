@@ -1,5 +1,12 @@
 [
 	{
+		"version": "v1.0.2",
+		"game_version": "v2.4.8",
+		"release_notes": "\r\n- Thêm chức năng sắp xếp tab\r\n- Thêm chức năng báo lỗi khi Quản lý tài khoản bị văng\r\n- Sửa lỗi cửa sổ game bị thừa\r\n- Sửa lỗi không bấm được link trong phần Hướng dẫn sử dụng và Về AutoUltra Crack",
+		"force_update": true,
+		"links": ["phamgiang.net"]
+	},
+	{
 		"version": "v1.0.1",
 		"game_version": "v2.4.8",
 		"release_notes": "Thêm server 13, Super 1, Super 2, fix không kết nối với QLTK được khi dùng proxy, thêm chức năng khôi phục mật khẩu",

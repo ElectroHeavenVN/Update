@@ -1,5 +1,12 @@
 [
 	{
+		"version": "v1.0.3",
+		"game_version": "v2.4.0",
+		"release_notes": "\r\n- Cập nhật game lên phiên bản 2.4.0\r\n-Thêm link tới web xem data game\r\n\r\nLưu ý: từ phiên bản 2.4.0, game sẽ không chạy trên các máy không hỗ trợ 64 bit. Kiểm tra thông tin máy của bạn trước khi quyết định cập nhật.\r\n",
+		"force_update": false,
+		"links": ["https://phamgiang.net"]
+	},
+	{
 		"version": "v1.0.2",
 		"game_version": "v2.4.8",
 		"release_notes": "\r\n- Thêm chức năng sắp xếp tab\r\n- Thêm chức năng báo lỗi khi Quản lý tài khoản bị văng\r\n- Sửa lỗi cửa sổ game bị thừa\r\n- Sửa lỗi không bấm được link trong phần Hướng dẫn sử dụng và Về AutoUltra Crack",

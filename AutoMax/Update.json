@@ -1,5 +1,12 @@
 [
 	{
+		"version": "v1.1.1",
+		"game_version": "v0.2.0",
+		"release_notes": "Fix 1 số lỗi của phiên bản 1.1.0:\r\n- Không kết nối được game với QLTK bằng phím P\r\n- Sửa vị trí lưu dữ liệu của AutoControl\r\n- Thông báo cho người dùng nếu QLTK đang mở khi người dùng mở AutoControl",
+		"force_update": false,
+		"links": ["https://phamgiang.net"]
+	},
+	{
 		"version": "v1.1.0",
 		"game_version": "v0.2.0",
 		"release_notes": "\r\n- Cập nhật game lên phiên bản 0.2.0\r\n- Thêm chức năng tự động cập nhật danh sách server\r\n- Thông báo cho người dùng nếu máy chưa cài và tự động cài Microsoft Visual C++ 2015-2022 Redistributable\r\n- Thêm AutoControl từ Dũng Phạm",

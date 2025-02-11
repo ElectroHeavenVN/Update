@@ -1,7 +1,7 @@
 [
 	{
 		"version": "v1.0.4",
-		"game_version": "v2.4.0, v2.3.4",
+		"game_version": "v2.4.0 (64 bit), v2.3.4 (32 bit)",
 		"release_notes": "\r\n- Gộp cả 2 phiên bản 32 bit và 64 bit\r\n- Thêm chức năng tự động cập nhật danh sách server (fix lỗi 1 số server không vào được)\r\n- Thông báo cho người dùng nếu máy chưa cài và tự động cài Microsoft Visual C++ 2015-2022 Redistributable\r\n",
 		"force_update": false,
 		"links": ["https://discord.gg/ekMDKCa5jQ"]
